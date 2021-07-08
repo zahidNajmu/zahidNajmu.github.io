@@ -23,3 +23,15 @@ section {
 #projects {
     background-color: #e2edff;
 }
+
+.gallery {
+    width: 100%;
+}
+
+.gallery img {
+    width: 300px;
+}
+
+#gallery .row > * {
+    padding: 0;
+}
